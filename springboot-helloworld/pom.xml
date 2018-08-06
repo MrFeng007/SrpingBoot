@@ -15,7 +15,6 @@
         <version>1.5.1.RELEASE</version>
     </parent>
 
-
     <dependencies>
         <!-- Spring Boot web依赖 -->
         <dependency>
